@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "986612060178",
+    "firebase_url": "https://agent-name-21c00.firebaseio.com",
+    "project_id": "agent-name-21c00",
+    "storage_bucket": "agent-name-21c00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986612060178:android:26103aeb01cdb349b288cb",
+        "android_client_info": {
+          "package_name": "com.example.socialdistancing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986612060178-fpna3hv2373d35lqcs4k22e8pv9fr8qg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOMyPriUzb_dX6P7I0aJtEl_BvGRA5JHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986612060178-fpna3hv2373d35lqcs4k22e8pv9fr8qg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
